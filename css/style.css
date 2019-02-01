@@ -32,7 +32,7 @@ header {
 .main_header {
     max-width: 1000px;
     margin: 0 auto;
-    padding: 0;
+    padding: 0px;
     background-color: #ffffff;
     /* position: relative; */
     /*top:0; */
@@ -76,7 +76,7 @@ li {
     padding: 0px 10px 0px 10px;
     border-right: #777777;
     border-right-style: solid;
-    border-right-width: 1;
+    border-right-width: 1px;
 }
 
 li:last-child {
@@ -215,7 +215,7 @@ footer {
         padding: 30px;
         width: 260px;
         bottom: 50px;
-        font-size: 20;
+        font-size: 20px;
     }
 }
 
@@ -235,7 +235,7 @@ footer {
     }
     .main_menu {
         float: none;
-        margin: 0 0 40 175;
+        margin: 0 0 40px 175px;
     }
     #about_image {
         float: none;
@@ -248,13 +248,13 @@ footer {
     }
 
     .div_image img{
-        width:500;
+        width:500px;
         height: auto;
     }
     .link_image {
         padding: 30px;
         width: 440px;
         bottom: 60px;
-        font-size: 30;
+        font-size: 30px;
     }
 }
